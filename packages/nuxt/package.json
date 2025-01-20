@@ -106,7 +106,7 @@
     "mlly": "^1.7.4",
     "nanotar": "^0.1.1",
     "nitropack": "^2.10.4",
-    "nypm": "^0.4.1",
+    "nypm": "^0.5.0",
     "ofetch": "^1.4.1",
     "ohash": "^1.1.4",
     "pathe": "^2.0.2",
@@ -141,7 +141,7 @@
     "@vitejs/plugin-vue": "5.2.1",
     "@vue/compiler-sfc": "3.5.13",
     "unbuild": "latest",
-    "vite": "6.0.7",
+    "vite": "6.0.9",
     "vitest": "3.0.2"
   },
   "peerDependencies": {
